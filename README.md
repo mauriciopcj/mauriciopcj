@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my profile, I'm Mauricio Pereira!
+---
+- Sou estudante de Sistemas para Internet e trabalho como estagiário de desenvolvimento Web na Jusfiça Federal da Paraíba (JFPB);
+- Atualmente trabalho com a stack: VueJS e Node.js;
+- Estudando ReactJS;
+
+#### Contatos
+ [Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-pereira-4b954216b/)
 
 <!--
 **mauriciopcj/mauriciopcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
