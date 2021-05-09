@@ -1,10 +1,9 @@
-### Welcome to my profile, I'm Mauricio Pereira!
----
-- Sou estudante de Sistemas para Internet e trabalho como estagiário de desenvolvimento Web na Jusfiça Federal da Paraíba (JFPB);
-- Atualmente trabalho com a stack: VueJS e Node.js;
-- Estudando ReactJS;
+# Welcome to my profile, I'm Mauricio Pereira!
 
-#### Contatos
+- Sou estudante de Sistemas para Internet e trabalho como Desenvolvedor Mobile;
+- Atualmente trabalho com a stack: Javascript, React Native;
+
+### Contatos
  [Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-pereira-4b954216b/)
 
 <!--
