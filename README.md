@@ -1,10 +1,10 @@
-# Welcome to my profile, I'm Mauricio Pereira!
+<!-- # Welcome to my profile, I'm Mauricio Pereira!
 
 - Sou estudante de Sistemas para Internet e trabalho como Desenvolvedor Mobile;
 - Atualmente trabalho com a stack: Javascript, React Native;
 
 ### Contatos
- [Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-pereira-4b954216b/)
+ [Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-pereira-4b954216b/) -->
 
 <!--
 **mauriciopcj/mauriciopcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
